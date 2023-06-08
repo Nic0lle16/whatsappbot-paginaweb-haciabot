@@ -1,0 +1,20 @@
+body {
+    background-color: lightcoral;
+}
+
+.container-boton{
+    background-color: white;
+    border: 1px;
+    position: fixed;
+    z-index: 998;
+    border-radius: 20%;
+    bottom: 15px;
+    right: 18px;
+    padding: 18px;
+    width: 75px;
+    transition: ease 2s;
+}
+
+
+
+
